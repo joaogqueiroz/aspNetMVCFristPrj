@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IQ7QF7H3sArsP3psdkEKn8i7hPgTdR4DFwF2BePuokhGDopsZOJdEs8BP67ggMC83w07zcbQvRKWkT3zk8YC/A==",
+  "dgSpecHash": "gMRdd2LWuBYEGBbZpVG7JaH3MZePjIsvOlzLEoNEz5S0R2c6Z7WhcKdF0cDlbaR20CiJvNs6FPq8j+wK3Nf4oQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\João\\Desktop\\dev\\dotnet\\prjMVC\\fristProject\\fristProject.csproj",
+  "projectFilePath": "C:\\dev\\dotnet\\prjMVC\\fristProject\\fristProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\João\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\João\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -108,7 +108,8 @@
     "C:\\Users\\João\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\João\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\João\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\João\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\João\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\João\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }
